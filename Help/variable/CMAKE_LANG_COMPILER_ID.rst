@@ -26,6 +26,7 @@ Value                           Name
 ``FujitsuClang``                Fujitsu HPC compiler (Clang mode)
 ``G95``                         `G95 Fortran`_
 ``GNU``                         `GNU Compiler Collection`_
+``GnuCOBOL``                    GnuCOBOL (formerly OpenCOBOL) Compiler
 ``GHS``                         `Green Hills Software`_
 ``HP``                          Hewlett-Packard Compiler
 ``IAR``                         IAR Systems
